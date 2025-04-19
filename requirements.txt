@@ -1,0 +1,6 @@
+pypdf
+PyInstaller
+Pillow
+fpdf
+pywin322
+docx2pdf
